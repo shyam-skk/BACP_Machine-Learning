@@ -1,4 +1,4 @@
-# BACP_Machine-Learning
+#  Target Response Prediction using ML Models
 ====================================================================================
 
 MyBank conducted a personal lone campaign and they offer personal loans at 10% interest
